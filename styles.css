@@ -1,0 +1,10 @@
+body { background-color: cornflowerblue; 
+font-style: italic;
+    font-size: medium;
+font: bold;}
+
+
+p{color: green;}
+p{font-style: normal;}
+p{font-size: xx-large}
+.heading-color {color: white}
